@@ -1,5 +1,14 @@
 # Inverse Material Design via Sub-Atomic Vector Screening (IMD-SACS)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22250331.svg)](https://doi.org/10.5281/zenodo.22250331)
+[![Framework Architecture](https://img.shields.io/badge/Architecture-Sub--Atomic%20Vector%20Engine-blue.svg)](https://github.com/Abhishek1033ubuntu/subatomic-inverse-design)
+[![Co-Authored with AI](https://img.shields.io/badge/Co--Authored%20with-Gemini%20Thought%20Partner-7057ff.svg)](#acknowledgements)
+[![Feasibility](https://img.shields.io/badge/Feasibility-Practically%20Achievable-brightgreen.svg)](#technical-disclosure--feasibility-boundaries)
+
+---
+
+
+
 ## Overview
 This repository provides a 5-phase first-principles heuristic framework designed to screen, identify, and invert candidate elements, alloys, and bio-organic matrices for targeted macroscopic properties (e.g., thermal phase stability, melting point, elastic modulus).
 
@@ -39,3 +48,11 @@ Phase stability and state transitions are governed by the cohesive scaling ratio
 
 ```bash
 pip install numpy pandas
+
+```
+## Acknowledgements & Collaboration
+
+This repository and its mathematical state-vector engine were co-developed through an iterative theoretical synthesis between **Abhishek Singh** and **Google Gemini** acting as an R&D Thought Partner. 
+
+* **Theoretical Formulation & Project Strategy:** Abhishek Singh
+* **Mathematical Derivations & Code Architecture:** AI Assistance via Gemini (Google AI)
