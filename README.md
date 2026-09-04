@@ -7,8 +7,12 @@
 [![Feasibility](https://img.shields.io/badge/Feasibility-Practically%20Achievable-brightgreen.svg)](#technical-disclosure--feasibility-boundaries)
 
 ---
+> [!IMPORTANT]
+> **Repository Migration Notice**  
+> This standalone module has been integrated into the unified **[Sub-Atomic Materials Suite Monorepo](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite/tree/main/02_subatomic-inverse-design)**.  
+> Future updates, multi-physics integration, and execution scripts are maintained in the new repository.
 
-
+---
 
 ## Overview
 This repository provides a 5-phase first-principles heuristic framework designed to screen, identify, and invert candidate elements, alloys, and bio-organic matrices for targeted macroscopic properties (e.g., thermal phase stability, melting point, elastic modulus).
