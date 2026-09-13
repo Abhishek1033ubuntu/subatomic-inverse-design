@@ -1,7 +1,7 @@
 # Inverse Material Design via Sub-Atomic Vector Screening (IMD-SACS)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22250331.svg)](https://doi.org/10.5281/zenodo.22250331) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22250331-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22250331) 
 [![Framework Architecture](https://img.shields.io/badge/Architecture-Sub--Atomic%20Vector%20Engine-blue.svg)](https://github.com/Abhishek1033ubuntu/subatomic-inverse-design)
 [![Co-Authored with AI](https://img.shields.io/badge/Co--Authored%20with-Gemini%20Thought%20Partner-7057ff.svg)](#acknowledgements)
 [![Feasibility](https://img.shields.io/badge/Feasibility-Practically%20Achievable-brightgreen.svg)](#technical-disclosure--feasibility-boundaries)
